@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9f86cf47-fcb8-4dda-b434-e9e3af8c14ff": {
+      "ProjectGuid": "9f86cf47-fcb8-4dda-b434-e9e3af8c14ff",
+      "DisplayName": "Cinema",
+      "ColorIndex": 0
+    },
+    "107eea33-6e3a-4a97-80fa-4dba577a9863": {
+      "ProjectGuid": "107eea33-6e3a-4a97-80fa-4dba577a9863",
+      "DisplayName": "Project.DAL",
+      "ColorIndex": 1
+    },
+    "8c7742d8-a498-41da-a6b7-649fe17f3926": {
+      "ProjectGuid": "8c7742d8-a498-41da-a6b7-649fe17f3926",
+      "DisplayName": "Project.BLL",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
